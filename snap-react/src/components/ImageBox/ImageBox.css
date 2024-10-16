@@ -1,0 +1,15 @@
+.imgBox {
+    margin-top: 40px;
+    margin-left: 150px;
+    width: 380px;
+
+    .imgD {
+        height: 70vh;
+        width: 100%;
+    }
+
+    .imgM {
+        display: none;
+    }
+
+}
